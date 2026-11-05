@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <p>bienvenue dans notre application</p>
-      <h1>Liste des étudiants</h1>
+      <h1>application de gestion de etu</h1>
       <ListeEtudiants />
       <Compteur />
       <FormulaireEtudiant/>
