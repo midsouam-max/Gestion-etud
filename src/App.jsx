@@ -27,6 +27,7 @@ function App() {
     <div>
       <h1> helooooo</h1>
       <h1> haloooo</h1>
+      <h2>Gestion des étudiants BTS DAI</h2> 
       <p>bienvenue dans notre application</p>
       <h1>application de gestion de etu</h1>
       
