@@ -15,14 +15,14 @@ function FormulaireEtudiant() {
   const handleChange = (e) => {
     const { name, value } = e.target;
     setEtudiant({
-      ...etudiant, // On garde les autres valeurs
-      [name]: value // On met à jour le champ en cours
+      ...etudiant, 
+      [name]: value 
     });
   };
 
  
   const handleSubmit = (e) => {
-    e.preventDefault(); // Empêche le rechargement de la page
+    e.preventDefault(); 
 
     
     if (!etudiant.nom || !etudiant.prenom || !etudiant.age) {
