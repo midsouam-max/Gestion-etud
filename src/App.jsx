@@ -25,6 +25,7 @@ function App() {
  
   return (
     <div>
+      <h1> haloooo</h1>
       <p>bienvenue dans notre application</p>
       <h1>application de gestion de etu</h1>
       
